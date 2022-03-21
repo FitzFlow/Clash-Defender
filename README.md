@@ -1,4 +1,4 @@
-Hello !
+Hello !!
 
 This is our EPITECH Graphical Programming Project, named Clash Defender.
 The goal of this project is to create a tower defense game, in C language with the CSFML Library.
