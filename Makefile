@@ -7,7 +7,7 @@
 
 SRC = my_defender.c
 
-NAME = my_defender
+NAME = clash_defender
 
 CFLAGS = -W -Wall -Werror -Wextra
 IFLAGS = -I ./include -I ./lib/my
